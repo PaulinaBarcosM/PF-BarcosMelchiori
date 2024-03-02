@@ -24,7 +24,7 @@
     margin: 0 15px 5px 0;
 }
 
-// footer
+/* footer */
 %disposicion-aF{
     color: whitesmoke;
     padding: 10px;
@@ -39,10 +39,12 @@
 }
 
 // para el Body-Pary
+/* fondo pages */
 %bodys-fondo{
     background-color: #0e0d0d;
 }
 // mq del main/body-pary
+/* img-pary */
 %photos-pary{
     display: grid;
     grid-template-columns: 1fr;
@@ -58,16 +60,19 @@
 }
 
 // para el body-classic
+/* body classic */
 %body-classic{
     background-color: #0e0d0d;
 }
 // mq del main-classic
+/* img classic */
 %photos-classic{
     display: grid;
     gap: 1rem;
     margin: 3rem 2rem;
 }
 // estilos del footer-classic
+/* footer classic */
 %footer-classic{
     display: flex;
     justify-content: center;
@@ -76,12 +81,14 @@
 }
 
 // ------para el Body-LongIn
+/* body longin */
 %body-longin{
     background-repeat: no-repeat;
     background-size: cover;
     color: whitesmoke;
 }
 // estilos del main
+/* main longin */
 %main-longin{
     margin: 20px 0 0 15px;
     padding: 15px 20px 15px 20px;
@@ -93,6 +100,7 @@
     margin: 20px 100px 0 100px;
 }
 // boostrap long in
+/* boostrap */
 %tipografia-bs{
     font-family: 'Bodoni Moda', serif;
     background-color: rgb(234, 227, 227);
@@ -125,6 +133,7 @@
 }
 
 // para el main-longin
+/* main longin */
 %h2-longin{
     font-size: 20px;
     border: 1px solid whitesmoke;

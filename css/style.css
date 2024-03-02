@@ -34,6 +34,7 @@ header nav div ul a {
   margin: 0 15px 5px 0;
 }
 
+/* footer */
 footer ul li a {
   color: whitesmoke;
   padding: 10px;
@@ -47,10 +48,12 @@ main div div img {
   object-fit: cover;
 }
 
+/* fondo pages */
 #body-classic, #body-urban, #body-pary {
   background-color: #0e0d0d;
 }
 
+/* img-pary */
 #body-pary .contenedor-pary .photos-uno-pary .photos-dos-pary {
   display: grid;
   grid-template-columns: 1fr;
@@ -65,12 +68,15 @@ main div div img {
   padding: 10px;
 }
 
+/* body classic */
+/* img classic */
 #body-classic .contenedor-classic .photos-classic {
   display: grid;
   gap: 1rem;
   margin: 3rem 2rem;
 }
 
+/* footer classic */
 #body-classic .footer-classic {
   display: flex;
   justify-content: center;
@@ -78,12 +84,14 @@ main div div img {
   bottom: 0;
 }
 
+/* body longin */
 #body-longin {
   background-repeat: no-repeat;
   background-size: cover;
   color: whitesmoke;
 }
 
+/* main longin */
 .main-longin {
   margin: 20px 0 0 15px;
   padding: 15px 20px 15px 20px;
@@ -96,6 +104,7 @@ main div div img {
   margin: 20px 100px 0 100px;
 }
 
+/* boostrap */
 .tipografia-boostrap {
   font-family: "Bodoni Moda", serif;
   background-color: rgb(234, 227, 227);
@@ -128,6 +137,7 @@ main div div img {
   font-size: 20px;
 }
 
+/* main longin */
 .main-longin .h2-longin {
   font-size: 20px;
   border: 1px solid whitesmoke;
@@ -156,7 +166,6 @@ header h1 {
   text-align: center;
 }
 
-/* body pary */
 /* body urban */
 #body-urban .contenedor-urban .photos-urban {
   display: grid;
